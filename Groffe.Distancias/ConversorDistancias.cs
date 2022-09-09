@@ -6,6 +6,5 @@ public class ConversorDistancias
         Math.Round(milhas * 1.609, 3);
 
     public static double KmParaMilhas(double km) =>
-        km / 1.609; // TODO: Retirar essa simulação de falha
-        //Math.Round(km / 1.609, 3);
+        Math.Round(km / 1.609, 3);
 }
