@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>Groffe.DotNet7.Distancias</PackageId>
+    <PackageId>Groffe.Sharebook.Distancias</PackageId>
     <Version>1.0.0</Version>
     <Authors>Renato Groffe</Authors>
     <Company>Groffe</Company>
